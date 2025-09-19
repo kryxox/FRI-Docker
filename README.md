@@ -384,10 +384,3 @@ docker images --format "table {{.Repository}}\t{{.Tag}}\t{{.Size}}" | sort -k3 -
 
 ---
 
-
-
-
-
----
-
-*Documento preparado para el curso FRI 2025 - Docker y Contenedorización*
